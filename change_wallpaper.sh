@@ -6,7 +6,7 @@ export DISPLAY="${DISPLAY:-:0}"
 export XDG_RUNTIME_DIR="${XDG_RUNTIME_DIR:-/run/user/$(id -u)}"
 
 # Configuration
-IMAGE_URL="https://wallpaperaccess.com/full/8926441.jpg"
+IMAGE_URL="https://wallpaperaccess.com/full/9379877.jpg"
 SAVE_PATH="$HOME/Pictures/daily_wallpaper.jpg"
 
 # Create Pictures directory if it doesn't exist
