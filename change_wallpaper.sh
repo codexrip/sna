@@ -7,7 +7,7 @@ export XDG_RUNTIME_DIR="${XDG_RUNTIME_DIR:-/run/user/$(id -u)}"
 
 # Configuration
 IMAGE_URL="https://wallpaperaccess.com/full/9379877.jpg"
-SAVE_PATH="$HOME/Pictures/daily_wallpaper.jpg"
+SAVE_PATH="$HOME/Pictures/daily_wallpaper1.jpg"
 
 # Create Pictures directory if it doesn't exist
 mkdir -p "$(dirname "$SAVE_PATH")"
