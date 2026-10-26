@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration
-IMAGE_URL="https://images.unsplash.com/photo-1506744038136-46273834b3fb" # Replace with your online image link
+IMAGE_URL="https://imgs.search.brave.com/mn4WWBdz5alwyrcTVXgEhFdfeNAFsgBnqP3j3wAdfb4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJhY2Nlc3Mu/Y29tL2Z1bGwvODky/NjQxMC5qcGc" # Replace with your online image link
 SAVE_PATH="$HOME/Pictures/daily_wallpaper.jpg"
 
 # Create Pictures directory if it doesn't exist
